@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Question 1:If you have a sorted array A and an unsorted array B,which is the best sorting algorithm among bubble,insertion and selection sort?
 Answer:
 Insertion sort
