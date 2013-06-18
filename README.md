@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Question 1:If you have a sorted array A and an unsorted array B,which is the best sorting algorithm among bubble,insertion and selection sort?
 Answer:
 Insertion sort
@@ -14,3 +15,7 @@ Question 3:If you are sorting the array by taking one value one after the other,
 Answer:When we enter the elements one after the other individually,we make sure that it is placed in a sorted order by inserting it in the appropriate  position.
 Both bubble sort and insertion sort can be used since the time complexity of sorting for both algorithms is O(n) in a sorted array.
 
+=======
+Sorting_algorithms
+==================
+>>>>>>> 09c3ede3f0015dbd8ea333826d910cc6ffafd3a3
