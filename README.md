@@ -5,8 +5,7 @@ Insertion sort
 For insertion sort the best case is when the array is already sorted.Inserting an element to an already sorted list becomes easy.For a sorted list the inner for loop doesn't get executed at all.This means we can take one element at a time from the unsorted list and place it in the appropriate position in the sorted list.
 No. of key comparisons=n-1
 So time complexity=O(n)
-Selection sort's best,worst and average time complexity is equal to O(n^2).So it doesnt matter if you sort the array or not
-Bubble sort can be efficient if the array size is small.
+Selection sort's best,worst and average time complexity is equal to O(n^2).So it doesnt matter if you sort the array or not.Bubble sort can be efficient if the array size is small.
 
 
 Question 2:If you have a sorted array A and one more sorted array B,which is the best sorting algorithm among bubble,insertion and selection sort?
