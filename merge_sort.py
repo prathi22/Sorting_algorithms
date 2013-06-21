@@ -1,5 +1,5 @@
 #Merge sort using top down approach(recursive)
-import math
+
 
 def input_num():
         a=[]
